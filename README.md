@@ -1,1 +1,1 @@
-# jupyter_examples
+# Sample jupyter notebooks to learn ML
