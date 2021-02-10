@@ -1,8 +1,9 @@
 # Sample jupyter notebooks to learn ML
 
-- Categorical And Numeric Data.ipynb
-- Text Feature Extraction.ipynb
-- Image Feature Extraction.ipynb
-- Lasso Ridge.ipynb
-- Support Vector Regression.ipynb
+- Categorical And Numeric Data
+- Text Feature Extraction
+- Image Feature Extraction
+- Lasso Ridge
+- Support Vector Regression
+- Document Classification with SVM
 
