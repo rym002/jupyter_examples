@@ -7,3 +7,4 @@
 - Support Vector Regression
 - Document Classification with SVM
 - MNIST Classification with SVM
+- Gradient Boosting
